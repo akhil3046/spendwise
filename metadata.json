@@ -1,0 +1,5 @@
+{
+  "name": "SpendWise - Daily Transaction Log",
+  "description": "A sophisticated transaction logging application with category-based tracking, real-time analytics, and Gemini-powered financial insights. Manage past and future expenses effortlessly with intuitive filtering and persistent storage.",
+  "requestFramePermissions": []
+}
